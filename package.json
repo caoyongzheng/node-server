@@ -1,0 +1,27 @@
+{
+  "name": "node-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caoyongzheng/node-server.git"
+  },
+  "author": "caoyongzheng 15267056106@163.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caoyongzheng/node-server/issues"
+  },
+  "homepage": "https://github.com/caoyongzheng/node-server#readme",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "express": "^4.14.1"
+  },
+  "devDependencies": {
+    "highlight.js": "^9.9.0",
+    "marked": "^0.3.6"
+  }
+}
